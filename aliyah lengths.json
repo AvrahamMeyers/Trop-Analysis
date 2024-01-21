@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Bereshit",
+    "length": 146,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      34,
+      16,
+      27,
+      21,
+      4,
+      28,
+      16
+    ]
+  },
+  {
+    "name": "Noach",
+    "length": 153,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      14,
+      16,
+      22,
+      15,
+      10,
+      44,
+      32
+    ]
+  },
+  {
+    "name": "Lech Lecha",
+    "length": 126,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      13,
+      11,
+      14,
+      20,
+      10,
+      37,
+      21
+    ]
+  },
+  {
+    "name": "Vayera",
+    "length": 147,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      14,
+      19,
+      20,
+      40,
+      17,
+      13,
+      24
+    ]
+  },
+  {
+    "name": "Chayei Sarah",
+    "length": 105,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      16,
+      13,
+      17,
+      26,
+      15,
+      11,
+      7
+    ]
+  },
+  {
+    "name": "Toldot",
+    "length": 106,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      21,
+      7,
+      10,
+      7,
+      33,
+      23,
+      5
+    ]
+  },
+  {
+    "name": "Vayetzei",
+    "length": 148,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      13,
+      17,
+      31,
+      14,
+      32,
+      26,
+      15
+    ]
+  },
+  {
+    "name": "Vayishlach",
+    "length": 153,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      10,
+      17,
+      8,
+      15,
+      42,
+      37,
+      24
+    ]
+  },
+  {
+    "name": "Vayeshev",
+    "length": 112,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      11,
+      11,
+      14,
+      30,
+      6,
+      17,
+      23
+    ]
+  },
+  {
+    "name": "Miketz",
+    "length": 146,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      14,
+      24,
+      14,
+      23,
+      35,
+      14,
+      22
+    ]
+  },
+  {
+    "name": "Vayigash",
+    "length": 106,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      13,
+      11,
+      11,
+      9,
+      28,
+      17,
+      17
+    ]
+  },
+  {
+    "name": "Vayechi",
+    "length": 85,
+    "book": "Genesis",
+    "aliyah_lengths": [
+      13,
+      7,
+      6,
+      18,
+      8,
+      27,
+      6
+    ]
+  },
+  {
+    "name": "Shemot",
+    "length": 124,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      17,
+      15,
+      15,
+      15,
+      24,
+      14,
+      24
+    ]
+  },
+  {
+    "name": "Vaera",
+    "length": 121,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      12,
+      15,
+      9,
+      28,
+      12,
+      26,
+      19
+    ]
+  },
+  {
+    "name": "Bo",
+    "length": 106,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      11,
+      12,
+      9,
+      27,
+      8,
+      23,
+      16
+    ]
+  },
+  {
+    "name": "Beshalach",
+    "length": 116,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      14,
+      6,
+      11,
+      32,
+      11,
+      26,
+      16
+    ]
+  },
+  {
+    "name": "Yitro",
+    "length": 75,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      12,
+      11,
+      4,
+      6,
+      13,
+      20,
+      9
+    ]
+  },
+  {
+    "name": "Mishpatim",
+    "length": 118,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      19,
+      21,
+      23,
+      9,
+      14,
+      6,
+      26
+    ]
+  },
+  {
+    "name": "Terumah",
+    "length": 96,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      16,
+      14,
+      24,
+      16,
+      7,
+      8,
+      11
+    ]
+  },
+  {
+    "name": "Tetzaveh",
+    "length": 101,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      14,
+      18,
+      13,
+      18,
+      19,
+      9,
+      10
+    ]
+  },
+  {
+    "name": "Ki Tisa",
+    "length": 139,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      45,
+      47,
+      5,
+      7,
+      9,
+      17,
+      9
+    ]
+  },
+  {
+    "name": "Vayakhel",
+    "length": 122,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      20,
+      9,
+      13,
+      12,
+      35,
+      13,
+      20
+    ]
+  },
+  {
+    "name": "Pekudei",
+    "length": 92,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      12,
+      20,
+      11,
+      11,
+      16,
+      11,
+      11
+    ]
+  },
+  {
+    "name": "Vayakhel-Pekudei",
+    "length": 214,
+    "book": "Exodus",
+    "aliyah_lengths": [
+      64,
+      35,
+      13,
+      32,
+      20,
+      22,
+      38
+    ]
+  },
+  {
+    "name": "Vayikra",
+    "length": 111,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      13,
+      10,
+      10,
+      17,
+      26,
+      19,
+      16
+    ]
+  },
+  {
+    "name": "Tzav",
+    "length": 97,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      11,
+      22,
+      28,
+      13,
+      8,
+      8,
+      7
+    ]
+  },
+  {
+    "name": "Shmini",
+    "length": 91,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      16,
+      7,
+      12,
+      4,
+      5,
+      32,
+      15
+    ]
+  },
+  {
+    "name": "Tazria",
+    "length": 67,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      13,
+      12,
+      6,
+      5,
+      11,
+      15,
+      5
+    ]
+  },
+  {
+    "name": "Metzora",
+    "length": 90,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      12,
+      8,
+      12,
+      21,
+      19,
+      13,
+      5
+    ]
+  },
+  {
+    "name": "Tazria-Metzora",
+    "length": 157,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      31,
+      16,
+      15,
+      25,
+      12,
+      40,
+      18
+    ]
+  },
+  {
+    "name": "Acharei",
+    "length": 80,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      17,
+      7,
+      10,
+      7,
+      14,
+      16,
+      9
+    ]
+  },
+  {
+    "name": "Kedoshim",
+    "length": 64,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      14,
+      8,
+      10,
+      5,
+      7,
+      15,
+      5
+    ]
+  },
+  {
+    "name": "Acharei-Kedoshim",
+    "length": 144,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      24,
+      17,
+      30,
+      23,
+      18,
+      12,
+      20
+    ]
+  },
+  {
+    "name": "Emor",
+    "length": 124,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      15,
+      25,
+      17,
+      22,
+      10,
+      12,
+      23
+    ]
+  },
+  {
+    "name": "Behar",
+    "length": 57,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      13,
+      5,
+      6,
+      4,
+      10,
+      8,
+      11
+    ]
+  },
+  {
+    "name": "Bechukotai",
+    "length": 78,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      3,
+      4,
+      37,
+      15,
+      6,
+      7,
+      6
+    ]
+  },
+  {
+    "name": "Behar-Bechukotai",
+    "length": 135,
+    "book": "Leviticus",
+    "aliyah_lengths": [
+      18,
+      10,
+      10,
+      26,
+      37,
+      15,
+      19
+    ]
+  },
+  {
+    "name": "Bamidbar",
+    "length": 159,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      19,
+      35,
+      34,
+      13,
+      26,
+      12,
+      20
+    ]
+  },
+  {
+    "name": "Nasso",
+    "length": 176,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      17,
+      12,
+      10,
+      48,
+      41,
+      30,
+      18
+    ]
+  },
+  {
+    "name": "Beha'alotecha",
+    "length": 136,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      14,
+      12,
+      14,
+      19,
+      24,
+      31,
+      22
+    ]
+  },
+  {
+    "name": "Sh'lach",
+    "length": 119,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      20,
+      20,
+      18,
+      27,
+      9,
+      10,
+      15
+    ]
+  },
+  {
+    "name": "Korach",
+    "length": 95,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      13,
+      6,
+      24,
+      7,
+      9,
+      24,
+      12
+    ]
+  },
+  {
+    "name": "Chukat",
+    "length": 87,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      17,
+      11,
+      7,
+      8,
+      17,
+      11,
+      16
+    ]
+  },
+  {
+    "name": "Balak",
+    "length": 104,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      11,
+      8,
+      18,
+      15,
+      14,
+      17,
+      21
+    ]
+  },
+  {
+    "name": "Pinchas",
+    "length": 168,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      13,
+      47,
+      19,
+      18,
+      15,
+      27,
+      29
+    ]
+  },
+  {
+    "name": "Matot",
+    "length": 112,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      16,
+      12,
+      12,
+      17,
+      13,
+      19,
+      24
+    ]
+  },
+  {
+    "name": "Masei",
+    "length": 132,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      10,
+      39,
+      22,
+      14,
+      8,
+      26,
+      13
+    ]
+  },
+  {
+    "name": "Matot-Masei",
+    "length": 244,
+    "book": "Numbers",
+    "aliyah_lengths": [
+      28,
+      42,
+      19,
+      72,
+      22,
+      22,
+      39
+    ]
+  },
+  {
+    "name": "Devarim",
+    "length": 105,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      10,
+      11,
+      17,
+      9,
+      29,
+      21,
+      8
+    ]
+  },
+  {
+    "name": "Va'etchanan",
+    "length": 122,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      11,
+      36,
+      9,
+      18,
+      15,
+      22,
+      11
+    ]
+  },
+  {
+    "name": "Eikev",
+    "length": 111,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      25,
+      13,
+      26,
+      11,
+      20,
+      12,
+      4
+    ]
+  },
+  {
+    "name": "Re'eh",
+    "length": 126,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      17,
+      18,
+      22,
+      21,
+      8,
+      18,
+      22
+    ]
+  },
+  {
+    "name": "Shoftim",
+    "length": 97,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      18,
+      7,
+      5,
+      8,
+      22,
+      17,
+      20
+    ]
+  },
+  {
+    "name": "Ki Teitzei",
+    "length": 110,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      12,
+      9,
+      29,
+      17,
+      6,
+      9,
+      28
+    ]
+  },
+  {
+    "name": "Ki Tavo",
+    "length": 122,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      11,
+      4,
+      4,
+      10,
+      22,
+      63,
+      8
+    ]
+  },
+  {
+    "name": "Nitzavim",
+    "length": 40,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      3,
+      3,
+      14,
+      6,
+      4,
+      4,
+      6
+    ]
+  },
+  {
+    "name": "Vayelech",
+    "length": 30,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      3,
+      3,
+      3,
+      4,
+      6,
+      5,
+      6
+    ]
+  },
+  {
+    "name": "Nitzavim-Vayelech",
+    "length": 70,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      20,
+      6,
+      8,
+      12,
+      7,
+      6,
+      11
+    ]
+  },
+  {
+    "name": "Ha'azinu",
+    "length": 52,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      6,
+      6,
+      6,
+      10,
+      11,
+      4,
+      9
+    ]
+  },
+  {
+    "name": "V'Zot HaBerachah",
+    "length": 41,
+    "book": "Deuteronomy",
+    "aliyah_lengths": [
+      7,
+      5,
+      5,
+      4,
+      5,
+      3,
+      12
+    ]
+  }
+]
